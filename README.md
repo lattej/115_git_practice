@@ -1,5 +1,5 @@
-# 115_git_practice
+# Data 115
 
-Data 115
+Personal Project
 
 This repository corresponds to the guide posted on BlackBoard for basics of GitHub.
